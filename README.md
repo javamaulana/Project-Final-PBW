@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FINAL%20PROJEK%20PBW&fontSize=50&descAlignY=53&descAlign=50&fontAlignY=37&desc=Oleh%20Java%20Maulana" alt="Header Final Projek Java" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FINAL%20PROJEK%20PBW&fontSize=50&descAlignY=53&descAlign=50&fontAlignY=37&desc=Oleh:%20Kelompok%206" alt="Header Final Projek Java" />
 </p>
 
 ## Tentang Proyek
 Selamat datang! Repositori ini berisi kode sumber lengkap untuk proyek akhir mata kuliah **Pemrograman Berbasis Web (PBW)** di Departemen Matematika dan Sains Data, Universitas Andalas. 
 
-Aplikasi yang dibangun bernama **"Jejak Berkas Disdukcapil"**, sebuah sistem informasi pelacakan (*tracking*) proses pengurusan KTP-el baru secara transparan, cepat, dan *real-time*. Aplikasi ini dibuat menggunakan PHP Native Prosedural yang bersih agar performanya ringan, serta Bootstrap 5 untuk memastikan tampilannya rapi dan nyaman dilihat di HP maupun laptop.
+Aplikasi yang dibangun bernama **"Jejak Berkas"**, sebuah sistem informasi pelacakan (*tracking*) proses pengurusan KTP-el baru secara transparan, cepat, dan *real-time*. Aplikasi ini dibuat menggunakan PHP Native Prosedural yang bersih agar performanya ringan, serta Bootstrap 5 untuk memastikan tampilannya rapi dan nyaman dilihat di HP maupun laptop.
 
 ## Alur Kerja Sistem (Bagaimana Aplikasi Ini Bekerja?)
 Sistem ini dibuat sangat ramah pengguna dengan memotong jalur birokrasi digital yang rumit. Alurnya dibagi menjadi dua sisi:
