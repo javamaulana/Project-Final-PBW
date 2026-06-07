@@ -42,7 +42,7 @@ $result = mysqli_query($conn, $query);
     <div class="container my-5">
         <?php if (isset($_SESSION['sukses_reg'])): ?>
             <div class="alert alert-success alert-dismissible fade show shadow-sm text-center py-3" role="alert">
-                <h5 class="fw-bold">🎉 Pendaftaran Berhasil!</h5>
+                <h5 class="fw-bold">Pendaftaran Berhasil!</h5>
                 <p class="mb-0 fs-5">Berikan Nomor Registrasi ini ke warga untuk pelacakan: <strong class="text-danger font-monospace"><?= $_SESSION['sukses_reg']; ?></strong></p>
                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
